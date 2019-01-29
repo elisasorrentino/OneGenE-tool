@@ -8,3 +8,5 @@ This tool is based on Vitis Vinifera expression data coming from the Vespucci co
 To have more info about the gene@home project see [https://gene.disi.unitn.it/test/genehome/en/hf/index.php](https://gene.disi.unitn.it/test/genehome/en/hf/index.php)
 
 To have more info of some previouse experiments on this organism with NES2RA algorithm see [Malacarne et al. 2018, Discovering Causal Relationships in Grapevine Expression Data to Expand Gene Networks. A Case Study: Four Networks Related to Climate Change](https://doi.org/10.3389/fpls.2018.01385)
+
+For other details see the wiki
